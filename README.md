@@ -24,5 +24,5 @@ Usage
 
 In your _config.yml_, add the following section:
 
-gems: 
-  - jekyll-unsanitize
+    gems: 
+      - jekyll-unsanitize
