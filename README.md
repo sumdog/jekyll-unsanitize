@@ -1,7 +1,9 @@
 jekyll-unsanitize
 =================
 
-Jekyll 2.5.3 doesn't allow for source files, such as layouts or includes, to be outside/below a site's source tree. This worked in previous versions, but was disabled per github requirements for security. The jekyll-unsanitize gem resolves this issue by monkey patching the affected parts of Jekyll, as per the bug report, it doesn't look like there are any plans to address this issues in future releases:
+[![Gem](https://img.shields.io/gem/v/formatador.svg?style=plastic)]()
+
+Jekyll 2.5.3 doesn't allow for source files, such as layouts or includes, to be outside/below a site's source tree. This worked in previous versions, but was disabled per github requirements for security. The jekyll-unsanitize gem resolves this issue by monkey patching the affected parts of Jekyll. The relevant bug report can be found at the following:
 
 https://github.com/jekyll/jekyll/issues/3248
 
