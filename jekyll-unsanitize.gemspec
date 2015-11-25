@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
 
   s.name = 'jekyll-unsanitize'
-  s.version = '0.3'
-  s.date = '2015-10-15'
+  s.version = '0.4'
+  s.date = '2015-11-26'
   s.summary = 'jekyll-unsanitize'
-  s.description = 'Removes source base requirement for Jekyll 2.5'
+  s.description = 'Removes source base requirement for Jekyll 3.0.1'
   s.authors = ['Sumit Khanna']
   s.email = 'sumit@penguindreams.org'
   s.homepage = 'http://penguindreams.org'
